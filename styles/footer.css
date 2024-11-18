@@ -1,0 +1,17 @@
+footer {
+  display: flex;
+  padding-block: 24px;
+}
+
+footer span {
+  margin-right: auto;
+}
+
+footer a {
+  padding: 4px;
+}
+
+ 
+footer a:nth-child(2) {
+  margin-right:16px ;
+}
